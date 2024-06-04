@@ -10,7 +10,7 @@ Whether you're looking for the latest fashion trends or just need to restock you
 
 3. **Cart Management**: The application allows users to add items to their cart and clear the cart once an order has been placed.
 
-4. **Email andSMS Notifications**: The application sends email and SMS notifications to users when they place an order. The application also sends email notifications to users when their order status changes.
+4. **Email and SMS Notifications**: The application sends email and SMS notifications to users when they place an order. The application also sends email notifications to users when their order status changes.
 
 5. **Authentication and Authorization**: The application supports user registration and login. Users can also reset their password and using Policy-based authorization, users can be restricted from accessing certain resources.
 
