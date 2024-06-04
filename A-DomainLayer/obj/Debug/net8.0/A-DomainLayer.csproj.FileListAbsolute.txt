@@ -1,0 +1,12 @@
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\bin\Debug\net8.0\A-DomainLayer.deps.json
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\bin\Debug\net8.0\A-DomainLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\bin\Debug\net8.0\A-DomainLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\A-DomainLayer.csproj.AssemblyReference.cache
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\A-DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\A-DomainLayer.AssemblyInfoInputs.cache
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\A-DomainLayer.AssemblyInfo.cs
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\A-DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\A-DomainLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\refint\A-DomainLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\A-DomainLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\A-DomainLayer\obj\Debug\net8.0\ref\A-DomainLayer.dll

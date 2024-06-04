@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>C_ServiceLayer</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\B-RepositoryLayer\B-RepositoryLayer.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CloudinaryDotNet" Version="1.26.2" />
+      <PackageReference Include="MailKit" Version="4.6.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.5" />
+      <PackageReference Include="MimeKit" Version="4.6.0" />
+      <PackageReference Include="Stripe.net" Version="44.10.0" />
+      <PackageReference Include="Twilio" Version="7.1.0" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\bin\Debug\net8.0\C-ServiceLayer.deps.json
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\bin\Debug\net8.0\C-ServiceLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\bin\Debug\net8.0\C-ServiceLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\bin\Debug\net8.0\A-DomainLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\bin\Debug\net8.0\B-RepositoryLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\bin\Debug\net8.0\B-RepositoryLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\bin\Debug\net8.0\A-DomainLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\C-ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\C-ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\C-ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\C-ServiceLayer.AssemblyInfo.cs
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\C-ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\C-Servic.9678D75C.Up2Date
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\C-ServiceLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\refint\C-ServiceLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\C-ServiceLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\C-ServiceLayer\obj\Debug\net8.0\ref\C-ServiceLayer.dll

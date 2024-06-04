@@ -1,0 +1,15 @@
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\bin\Debug\net8.0\B-RepositoryLayer.deps.json
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\bin\Debug\net8.0\B-RepositoryLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\bin\Debug\net8.0\B-RepositoryLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\bin\Debug\net8.0\A-DomainLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\bin\Debug\net8.0\A-DomainLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\B-RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\B-RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\B-RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\B-RepositoryLayer.AssemblyInfo.cs
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\B-RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\B-Reposi.6F693ABA.Up2Date
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\B-RepositoryLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\refint\B-RepositoryLayer.dll
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\B-RepositoryLayer.pdb
+C:\Users\mahmoud\Desktop\WebApplication1\B-RepositoryLayer\obj\Debug\net8.0\ref\B-RepositoryLayer.dll
