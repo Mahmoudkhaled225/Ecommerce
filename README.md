@@ -28,6 +28,7 @@ Whether you're looking for the latest fashion trends or just need to restock you
 ## Tech Stack
 
 - *Server:* .NET 8, Entity Framework Core
+- *Architecture:* Onion
 - *Database:* SQL Server , Redis
 - *SMS Service:* Twilio
 - *Cloud Service:* Cloudinary
