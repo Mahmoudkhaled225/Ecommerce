@@ -16,17 +16,20 @@ Whether you're looking for the latest fashion trends or just need to restock you
 
 6. **Authentication and Authorization**: The application supports user registration and login. Users can also reset their password and using Policy-based authorization, users can be restricted from accessing certain resources.
 
-7. **Search and Filter**: The application supports searching and filtering products based on different criteria.
+7. **Localiaztion**: The application supports Both Arabic and English language responses.
 
-8. **Validation**: The application supports validation upcomming data using fluent validation library.
+8. **Search and Filter**: The application supports searching and filtering products based on different criteria.
 
-9. **Image Upload**: The application allows users to upload images for products. The images are stored in Cloudinary.
+9. **Validation**: The application supports validation upcomming data using fluent validation library.
 
-10. **Data Seeding**: The application uses EF Core migrations to seed data.
+10. **Image Upload**: The application allows users to upload images for products. The images are stored in Cloudinary.
 
-11. **Data Mapping**: The application uses AutoMapper to Seamless data mapping with AutoMapper.
+11. **Data Seeding**: The application uses EF Core migrations to seed data.
 
-12. **Exception Handling**: The application uses middleware to handle exceptions and return appropriate responses.
+12. **Data Mapping**: The application uses AutoMapper to Seamless data mapping with AutoMapper.
+
+13. **Exception Handling**: The application uses middleware to handle exceptions and return appropriate responses.
+
 ## Tech Stack
 
 - *Server:* .NET 8, Entity Framework Core
