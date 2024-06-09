@@ -18,7 +18,7 @@ Whether you're looking for the latest fashion trends or just need to restock you
 
 7. **Search and Filter**: The application supports searching and filtering products based on different criteria.
 
-8. **Validation**: The application supports validation upcomming data using Fluent Api library.
+8. **Validation**: The application supports validation upcomming data using fluent validation library.
 
 9. **Image Upload**: The application allows users to upload images for products. The images are stored in Cloudinary.
 
